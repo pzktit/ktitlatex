@@ -10,7 +10,7 @@ Example of using Dev Container technology for LaTeX document preparation.
 
 2. Pull the required Docker image
    ```bash
-   docker pull ghcr.io/pzktit/ktitlatex
+   docker pull pzktit/ktitlatex
    ```
 1. Clone this repo
     ```bash
