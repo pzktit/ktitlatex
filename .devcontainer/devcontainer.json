@@ -1,4 +1,4 @@
 {
 	// image praparation described in https://github.io/pzktit/ktitlatex-devcontainer
-	"image": "pzktit/ktitlatex"
+	"image": "docker.io/pzktit/ktitlatex"
 }
