@@ -16,12 +16,14 @@ Example of using Dev Container technology for LaTeX document preparation.
     ```bash
     git clone https://github.com/pzktit/ktitlatex
     ```
-3. Open resulting folder in _Visual Studio Code_ DevContainer. 
+3. Open resulting folder in _Visual Studio Code_ DevContainer.
+1. Open `Terminal`. `Problems` tab reports messages from extensions that analyze your document. The `Output` tab reports output from executed tools. Please select it and in `Tasks` choose `Latex Compiler`.
 4. Build the attached sample document (play icon on the top bar).
-5. Close the remote connection (icon on down left corner).
-6. Copy folders `.devconatiner/` and `.vscode/` to the folder with your document and repeat the above steps.
+5. `Reopen Folder Locally`: icon on left down corner with `Dev Container` name.
+6. Copy folders `.devcontainer/` and `.vscode/` to the folder with your document and repeat the above steps.
+1. You can select default compilation mode in `.vscode/settings.json`.
 7. Study the documentation of the _Latex Workshop_, _LTeX_ and other extensions to take full advantage of using _Visual Studio Code_.
 
-## Want more?
+## Interested? Want more?
 
 Please visit [ktitlatex-devcontainer](https://pzktit.github.io/ktitlatex-devcontainer/) to learn how the used DevContainer was prepared and how to prepare your own.
