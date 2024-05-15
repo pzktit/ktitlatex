@@ -24,4 +24,4 @@ Example of using Dev Container technology for LaTeX document preparation.
 
 ## Want more?
 
-Please visit [ktitlatex-devcontainer "Example of using DevContainers for LaTeX document preparation in Visual Studio Code"](https://pzktit.github.io/ktitlatex-devcontainer/) to learn how the used DevContainer was prepared and how to prepare your own.
+Please visit [ktitlatex-devcontainer](https://pzktit.github.io/ktitlatex-devcontainer/) to learn how the used DevContainer was prepared and how to prepare your own.
