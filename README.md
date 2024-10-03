@@ -1,5 +1,5 @@
 # ktitlatex
-Example of using Dev Container technology for LaTeX document preparation.
+Example of using a preconfigure DevContainer for LaTeX document preparation. The procedure of container preparation is described in [ktitlatex-devcontainer](https://github.com/pzktit/ktitlatex-devcontainer).
 
 ## What do you need?
 
